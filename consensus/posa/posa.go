@@ -74,8 +74,8 @@ var (
 	punishContractName     = "punish"
 	proposalContractName   = "proposal"
 	validatorsContractAddr = common.HexToAddress("0x000000000000000000000000000000000000f000")
-	punishContractAddr     = common.HexToAddress("0x000000000000000000000000000000000000f111")
-	proposalAddr           = common.HexToAddress("0x000000000000000000000000000000000000f222")
+	punishContractAddr     = common.HexToAddress("0x000000000000000000000000000000000000F001")
+	proposalAddr           = common.HexToAddress("0x000000000000000000000000000000000000F002")
 )
 
 // Various error messages to mark blocks invalid. These should be private to
